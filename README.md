@@ -13,7 +13,9 @@ To compile on other machines:
 - Run the following commands
 
 $ g++ -c -std=c++11  ./*.cpp
+
 $ g++ -o "Mastermind"  ./*.o
+
 $ ./Mastermind
 
 Playing the game:
